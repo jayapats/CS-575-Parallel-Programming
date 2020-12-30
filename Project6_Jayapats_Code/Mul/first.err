@@ -1,0 +1,630 @@
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     0.260 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     3.822 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     3.161 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     4.352 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     4.370 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     3.360 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     3.343 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     0.079 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     4.606 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     1.952 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     1.322 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     3.363 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     4.149 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	   8388608	     2.244 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     4.926 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     3.985 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     4.453 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     3.723 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     4.293 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     3.893 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     2.977 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     2.276 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     8.219 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     6.702 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     7.995 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     7.946 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     7.527 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	   4194304	     5.084 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     7.227 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     3.174 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	    15.478 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     1.349 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     2.492 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	    14.167 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     7.927 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	    16.520 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     9.388 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	    13.612 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     6.294 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	    12.422 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     6.042 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	   2097152	     3.759 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    24.996 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     2.198 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     2.635 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     1.364 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    12.816 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     3.374 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     2.638 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    23.529 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    18.714 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    20.454 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    20.264 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	    20.669 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     8.130 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	   1048576	     5.155 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    38.784 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     0.248 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     3.533 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    30.545 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    10.338 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    25.456 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    27.926 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     1.134 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     0.073 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     6.734 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    24.132 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	    24.143 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	    524288	     0.100 GigaMultsPerSecond
+first.cpp:22:0: warning: "NUM_ELEMENTS" redefined [enabled by default]
+ #define NUM_ELEMENTS  NMB*1024*1024
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+first.cpp: In function ‘int main(int, char**)’:
+first.cpp:149:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+slurmstepd: error: *** JOB 17147 ON compute-dgxs-2 CANCELLED AT 2020-05-29T18:15:44 DUE TO TIME LIMIT ***
